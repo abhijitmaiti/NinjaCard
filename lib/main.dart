@@ -21,10 +21,10 @@ class _MyAppState extends State<MyApp> {
           title: Text(
             "Ninja ID Card",
             style: TextStyle(
-                fontSize: 20,
+                fontSize: 25,
                 color: Colors.amber,
                 fontWeight: FontWeight.bold,
-                letterSpacing: 4),
+                letterSpacing: 5),
           ),
           centerTitle: true,
         ),
